@@ -1,0 +1,6 @@
+Hello there!  
+This is a simple test file.  
+Python is a great programming language.  
+Many developers love Python because it is easy to learn and powerful.  
+Python can be used for data science, web development, automation, and more.  
+

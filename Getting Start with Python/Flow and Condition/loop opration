@@ -1,0 +1,12 @@
+list1 = ["Data-Science", "Power BI", "Python"]
+
+for index, subject in enumerate(list1):
+    print(f"Index: {index}, Subj: {subject}")
+# test = input("enter something")
+# i = 1
+# while(i<10):
+#     print(test.replace('.','',2))
+#     i+=1
+
+# print(test)
+# print(float(test))
